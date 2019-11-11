@@ -8,7 +8,7 @@
       searchedCharacter = searchedCharacter.replace(/\s+/g, "").toLowerCase();
 
       // QUESTION: What does $.get do? What are the parameters it is expecting?
-      $.get("/api/characters/" + searchedCharacter, function(data) {
+      $.get("/api/friendFinder/" + searchedCharacter, function(data) {
         console.log(data);
         if (data) {
           $("#stats").show();
