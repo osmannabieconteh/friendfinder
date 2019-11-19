@@ -2,7 +2,7 @@
 var friends = [
   {
     name: "osman conteh ",
-    photo: "https://i2-prod.mirror.co.uk/sport/row-zed/article8139292.ece/ALTERNATES/s1200/Lukaku-in-Nike-vid.jpg",
+    photo: "https://ctl.s6img.com/society6/img/F1hHl-fs3oFVJLKSifMeVj_Wj3s/w_700/prints/~artwork/s6-0024/a/9411591_11139468/~~/boxing-cat-prints.jpg",
     scores: [
       "5",
       "1",
